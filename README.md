@@ -78,6 +78,3 @@ House-Price-Prediction/
 
 Data Analyst | ML Engineer | AI Enthusiast | Python | SQL | Data Science
 
----
-
-This version reflects the use of **Streamlit** instead of Flask, with all other necessary updates. Let me know if you need further adjustments!
