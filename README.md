@@ -18,13 +18,16 @@ This project develops and deploys a house price prediction system using historic
 * **Streamlit Web Application**: User-friendly UI for real-time price predictions.
 
 <b>📂 Project Structure:</b>
+
+```
 House-Price-Prediction/
-├── app.py # Streamlit app entry point
-├── House_price_prediction.ipynb # EDA, modeling, experiments
-├── kc_house_data.csv # Raw housing data
-├── house_price_pipeline.pkl # Serialized model pipeline
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── app.py                         # Streamlit app entry point
+├── House_price_prediction.ipynb   # EDA, modeling, experiments
+├── kc_house_data.csv              # Raw housing data
+├── house_price_pipeline.pkl       # Serialized model pipeline
+├── requirements.txt               # Project dependencies
+└── README.md                      # Project documentation
+```
 
 <b>💻 Technologies & Skills:</b>
 
@@ -44,11 +47,13 @@ House-Price-Prediction/
    git clone https://github.com/Walidsadiqi/House-Price-Prediction.git
    cd House-Price-Prediction
    ```
+
 2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
+
 3. Run the Streamlit app:
 
    ```bash
