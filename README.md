@@ -1,7 +1,3 @@
-Thank you for the clarification! Here's the revised version of your project description, with Streamlit as the framework, and the content shortened further:
-
----
-
 <h1>🏡 House Price Prediction</h1>
 
 An end-to-end machine learning project to predict house prices using regression models. Built with Python and deployed via a **Streamlit** web app to demonstrate data science, model engineering, and full-stack skills.
